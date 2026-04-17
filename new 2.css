@@ -1,8 +1,8 @@
   @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap');
 :root {
-	--base-background-color: ЦВЕТ ФОНА;
-	--base-text-color: ЦВЕТ БУКВ;
-	--reflection: ЦВЕТ ТЕНИ;
+	--base-background-color: green;
+	--base-text-color: black;
+	--reflection: yellow;
 }
       * {
 
